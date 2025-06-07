@@ -1,4 +1,6 @@
-tensorflow-cpu
+
+tensorflow-cpu==2.18.0
+gdown
 streamlit
 gdown
 numpy
